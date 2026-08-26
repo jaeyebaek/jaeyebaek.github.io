@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jaeye Baek"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" 
   bio              : "Ph.D. Candidate in Political Science. International relations · law and society · transitional justice · human rights."
   location         : "Amherst, MA"
   employer         : "University of Massachusetts Amherst"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # add your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=sY2rPYYAAAAJ&hl=ko&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # add your ORCID URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # add your LinkedIn username (the part after linkedin.com/in/)
+  linkedin         : "https://www.linkedin.com/in/jaeyebaek/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
